@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Caching the Inverse of a Matrix
+## For easy access of the inverse of a matrix to overcome the costly computation each and every time 
+
 
 ## Write a short comment describing this function
 ##Function used for creating the matrix object that can cache its inverse 
